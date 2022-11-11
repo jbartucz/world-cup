@@ -1,0 +1,19 @@
+{
+  "name": "world-cup",
+  "version": "1.0.0",
+  "description": "world cup bracket manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbartucz/world-cup.git"
+  },
+  "author": "John Bartucz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbartucz/world-cup/issues"
+  },
+  "homepage": "https://github.com/jbartucz/world-cup#readme"
+}
